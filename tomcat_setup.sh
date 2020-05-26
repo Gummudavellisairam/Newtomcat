@@ -1,5 +1,5 @@
 #!/bin/bash
-source java
+source ./java.sh
 java
-source tomcat
+source ./tomcat.sh
 tomcat_installation
